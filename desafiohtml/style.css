@@ -1,0 +1,36 @@
+h1{
+    font-family: 'MuseoModerno', cursive;
+    color:#0a2ff1;
+    font-size: 117.706px;
+}
+
+.subtitulo{
+    font-family: 'Asap', sans-serif;
+    color: #0a2ff1;
+    font-size: 51.986px;
+}
+
+body{
+    font-size: medium;
+    background-color: #edf7ff;
+}
+p{
+    font-size: 33.3333333333333px;
+}
+
+ul{
+    font-family: 'Asap', sans-serif;
+    font-size: 33.33333333333333px;
+}
+
+h3{
+    font-family: 'MuseoModerno', cursive;
+    color:#0a2ff1;
+    font-size: 48px;
+}
+
+.pieDePagina{
+    font-family: 'MuseoModerno', cursive;
+    font-size: 199.17333333333332px;
+    color: #8a9af1;
+}
